@@ -15,5 +15,5 @@ npm install electron-packager -g
 
 - Compilando Aplicação:
 <pre>
-electron-packager <sourcedir> <appname>
+electron-packager "sourcedir" "appname"
 </pre>
